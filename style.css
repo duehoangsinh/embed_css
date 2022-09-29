@@ -1,0 +1,26 @@
+.table {
+    background-color: green;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+}
+.table_1 {
+    background-color: rgb(248, 250, 248);
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    margin-left: 40px;
+}
+.table_2 {
+    background-color: rgb(182, 187, 182);
+    border: 1px solid black;
+    width: 300px;
+    height: 150px;
+    margin-left: 40px;
+}
+.table_2 td {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    color: green;
+}
